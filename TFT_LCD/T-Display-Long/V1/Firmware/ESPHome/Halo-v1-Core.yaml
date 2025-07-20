@@ -20,7 +20,7 @@ esp32_improv:
   authorizer: none
 
 external_components:
-  - source: github://yashmulgaonkar/esphome-components
+  - source: github://dkowis/esphome-components
     components: [axs15231, sy6970]
 
 spi:
