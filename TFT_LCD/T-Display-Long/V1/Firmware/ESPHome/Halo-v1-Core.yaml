@@ -72,7 +72,7 @@ select:
      - "Fahrenheit"
      - "Celsius"
      - "Kelvin"
-    initial_option: "Fahrenheit"
+    initial_option: "Celsius"
     restore_value: true
     optimistic: true
     on_value:
